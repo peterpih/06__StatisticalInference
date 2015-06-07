@@ -21,3 +21,5 @@ library(swirl)
 $$M = \sigma^{2}/n$$
 
 $$\sqrt{b^2 - 4ac}$$
+
+This summation expression $\sum_{i=1}^n X_i$ appears inline.
