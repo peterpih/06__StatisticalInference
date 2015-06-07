@@ -20,3 +20,4 @@ library(swirl)
 
 $$M = \sigma^{2}/n$$
 
+$$\sqrt{b^2 - 4ac}$$
