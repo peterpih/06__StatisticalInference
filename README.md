@@ -18,5 +18,5 @@ library(swirl)
 > number of draws = 100
 > pnorm(0.95, mean=0.5, std=sqrt(1/12)/sqrt(100))
 
-$M = \sigma^{2}/n$
+$$M = \sigma^{2}/n$$
 
