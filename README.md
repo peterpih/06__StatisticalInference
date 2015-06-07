@@ -1,7 +1,7 @@
 # StatisticalInference
 
 ### Father Son Data
-'''{R}
+```{R}
 install.packages("UsingR")
 library(UsingR)
-'''
+```
