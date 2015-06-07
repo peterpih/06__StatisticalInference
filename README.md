@@ -1,4 +1,4 @@
-# StatisticalInference
+# Statistical Inference
 
 ### Examples
 ```{R}
