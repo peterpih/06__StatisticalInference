@@ -11,6 +11,7 @@ library(UsingR)
 # Loading Swirl
 install.packages("swirl")
 library(swirl)
+install_from_swirl("Statistical Inference")
 
 ```
 
